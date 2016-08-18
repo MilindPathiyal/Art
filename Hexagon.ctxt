@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Hexagon()
+comment1.params=givenSide
+comment1.target=Hexagon(int)
+comment2.params=
+comment2.target=int\ getPerimeter()
+comment3.params=pen
+comment3.target=void\ draw(gpdraw.DrawingTool)
+numComments=4
